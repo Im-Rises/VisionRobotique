@@ -1,0 +1,9 @@
+C:\Users\Quent\source\repos\VisionRobotique\VisionRobotique\bin\Debug\VisionRobotique.exe.config
+C:\Users\Quent\source\repos\VisionRobotique\VisionRobotique\bin\Debug\VisionRobotique.exe
+C:\Users\Quent\source\repos\VisionRobotique\VisionRobotique\bin\Debug\VisionRobotique.pdb
+C:\Users\Quent\source\repos\VisionRobotique\VisionRobotique\obj\Debug\VisionRobotique.csprojAssemblyReference.cache
+C:\Users\Quent\source\repos\VisionRobotique\VisionRobotique\obj\Debug\VisionRobotique.Properties.Resources.resources
+C:\Users\Quent\source\repos\VisionRobotique\VisionRobotique\obj\Debug\VisionRobotique.csproj.GenerateResource.cache
+C:\Users\Quent\source\repos\VisionRobotique\VisionRobotique\obj\Debug\VisionRobotique.csproj.CoreCompileInputs.cache
+C:\Users\Quent\source\repos\VisionRobotique\VisionRobotique\obj\Debug\VisionRobotique.exe
+C:\Users\Quent\source\repos\VisionRobotique\VisionRobotique\obj\Debug\VisionRobotique.pdb
